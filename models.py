@@ -28,9 +28,7 @@ class DictSerializableMixin(Base):
 class App(DictSerializableMixin):
     """Users with names emails google ids etc"""
     __tablename__ = 'app'
-    # __table_args__ = (
-    #     UniqueConstraint('appid'),
-    # )
+
     id = Column(Integer, primary_key=True)
     appid = Column(String(128))
     email = Column(String(128))
