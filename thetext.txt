@@ -1,11 +1,11 @@
-Dear Android developers of . . . . . .
+Dear Android developers of ......
 
 Would you like to share android reviews with us and other developers ?
 We developed a webapp: ‘Trade A Rate’, now you can trade ratings with other app developers.
 Perhaps you will find this an interesting idea and are willing to give it a try.
 
-trade.sixdots.app
+trade.six-dots.app
+
 
 With kind regards
-
 Sixdots software

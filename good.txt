@@ -1,26 +1,25 @@
-themojtools@gmail.com com.tmt.gpsaltimeter.altitude.meter.free
-support@mindbodyonline.com com.fitnessmobileapps.altitudefitness
-support@classplus.co co.classplus.alti
-info@alpsfly.com com.thermalscout.vario
-support@doggoapps.com com.doggoapps.vex
-betmaryst@gmail.com com.radiostation.altitudesportsradio925radiofreeapponline
-sixdots.soft@gmail.com com.sixdots.babbly
-theseriouscompany@gmail.com woody.merge.dice.block.free.game.match.puzzle
-support@gamepotli.com com.gamepotli.ludo.jackpot
-info@madinc.me com.MadInc.Tap3Match
-hello.popupgames@gmail.com com.popupgames.snake.king.dice.board.game
-vcinfinite@outlook.com dasgpscam.dasgpsatmic.dasgpsnot
-sixdots.soft@gmail.com com.sixdots.picsurelylite
-battlingbugs.solutions@gmail.com com.battlingbug.mapcamera
-zenappsproduction@gmail.com com.best.free.timestamp.photostamp
-ekikapps@gmail.com com.ekik.gpsstampcam
-jugnjugnucampjc@gmail.com com.vaijugn.gpsmapphoto
-hello@shandyapplications.com shandy.radar.map.hud.navigation
-ekikapps@gmail.com com.ekik.gpscamerastamp
-develope14000@gmail.com com.revens.family.tank.battles
-sixdots.soft@gmail.com com.sixdots.dice_game
-alexcreativetools@gmail.com com.common.creativetools.dice.roller
-ysenbuonto.games@gmail.com game.wooden.merge.dice3d
+themojtools@gmail.com com.tmt.gpsaltimeter.altitude.meter.free nope
+support@mindbodyonline.com com.fitnessmobileapps.altitudefitness done
+support@classplus.co co.classplus.alti nope
+info@alpsfly.com com.thermalscout.vario  done
+support@doggoapps.com com.doggoapps.vex done
+betmaryst@gmail.com com.radiostation.altitudesportsradio925radiofreeapponline done
+theseriouscompany@gmail.com woody.merge.dice.block.free.game.match.puzzle done
+support@gamepotli.com com.gamepotli.ludo.jackpot nope
+info@madinc.me com.MadInc.Tap3Match done
+hello.popupgames@gmail.com com.popupgames.snake.king.dice.board.game Done
+
+vcinfinite@outlook.com dasgpscam.dasgpsatmic.dasgpsnot Nope
+battlingbugs.solutions@gmail.com com.battlingbug.mapcamera nope
+zenappsproduction@gmail.com com.best.free.timestamp.photostamp done
+ekikapps@gmail.com com.ekik.gpsstampcam done
+jugnjugnucampjc@gmail.com com.vaijugn.gpsmapphoto Nope
+hello@shandyapplications.com shandy.radar.map.hud.navigation done
+ekikapps@gmail.com com.ekik.gpscamerastamp Nope
+develope14000@gmail.com com.revens.family.tank.battles Done
+alexcreativetools@gmail.com com.common.creativetools.dice.roller Done
+ysenbuonto.games@gmail.com game.wooden.merge.dice3d Done
+
 zeus.dev.software.tools@gmail.com com.ZeusDevSoftwareTools.DiceMergeClassic777
 zeus.dev.software.tools@gmail.com com.ZeusDevSoftwareTools.DiceMergeLucky777
 feedback@mixypersonals.com com.mixy.personals
@@ -30,6 +29,7 @@ goldebsquare@gmail.com com.storymaker.instastoryeditor
 fmaniya14@gmail.com com.vgng.storymaker
 sctoolapps@gmail.com sctoolapps.story.storymaker
 sladjansavic993@gmail.com com.sladjan.voicerecorder
+
 lida.admob@gmail.com com.PiterHaSa.VoiceRecorder
 huynhconghuy92@gmail.com com.conghuy.compass
 NikobabyRazraz@gmail.com com.guide.howto.singsingingclasses
@@ -39,6 +39,7 @@ spot.shareholder@gmail.com com.spot.rider
 spot.shareholder@gmail.com com.spot.driver
 contact@thespotlighter.org spotlight.spotlight_flutter
 hash12twelve@gmail.com com.hashtwelve.it.solutions.find.the.difference
+
 asteroid.solutionss@gmail.com com.asteroidgamestudio.finddiff.finddifferences
 hankis141@gmail.com com.spotinc.spotvpn
 andriydymnich@gmail.com com.andriydymnich.findmycar
@@ -48,6 +49,7 @@ apps@globalstar.com com.globalstar.spotmyglobalstar
 hello@meetwithspot.com mt.spot.app
 equfamous@gmail.com qrcodescanner.barcodereader.barcodescanner
 live360view@gmail.com com.camscannerpdf.pdfscanner.documentscanner.pdf.imagescanner
+
 thorizon88@gmail.com com.appshopstudio.PdfScanner.DocumentScanner
 appsjsk@gmail.com com.jskapps.camscanner
 app.evolution.dev@gmail.com qr.code.scanner.qrscanner.qrcode.generate.barcode.barcodereader.barcodescanner.qrreader
@@ -57,6 +59,7 @@ eleccoons@gmail.com com.sv.speed_brain
 gamecoolsoft@gmail.com com.cy.Puzzles.StrongestBrain.Games
 admin@appcratic.tech brain.games.training
 nmcuong6914@gmail.com com.brain.puzzle.iq
+
 gejjo@gejjogames.com com.GejjoGames.BrainTrain
 bestdiylists@hotmail.com smartgr.side.tables
 rajshah5599@gmail.com com.jun.mathmultiplicationtables
@@ -66,6 +69,7 @@ energy.production.art@gmail.com com.Digital.Sports.Workouts.Table.Tennis.Techniq
 bestdiylists@hotmail.com smartgr.sofa.sidetable
 creativeandro154@gmail.com com.creative.lifelessons
 magnus.fashionstore@gmail.com com.magnus.lessonsin.lifequotes.collection
+
 info@tempomusiclessons.ca com.Music.Tempo
 info@museli.app app.museli.play
 info@backintimecc.ca co.shopney.backintimecomicsandcollectibles
@@ -75,6 +79,7 @@ info@qazaq-found.kz com.commics
 dylix98@gmail.com com.dylix.comic_reader
 magistouch@gmail.com com.Magistouch.ARmaya
 1848499698@qq.com com.quanyou.qycomic
+
 bentaibiilyass4@gmail.com com.KaboureStickers.WAStickerApps
 myprorock@gmail.com com.myprorock.compass
 soumyajitmaity.app@gmail.com com.soumyajit.compass
@@ -84,6 +89,7 @@ info@pohperformance.com com.pohperformance.Radar
 contact@stonewave.net net.stonewave.kytheratrails
 friendsamm@friendsofthealdershotmilitarymuseum.org.uk uk.co.audiotrails.aldershot
 technik@outdooractive.com com.outdooractive.aoe
+
 info@sheptonmallet-tc.gov.uk uk.co.audiotrails.sheptonmallet
 uchauhdry@gmail.com recover.whatsdelete.messages.whatsrecover.deleted.unseen.view.wamr.utility.inc
 binoyasquare@gmail.com com.chibino.liveearthmapview
@@ -93,6 +99,7 @@ support@360carview.com com.carview.carview360
 pixapopdev@gmail.com com.pixadev.gallery
 techarotech21@gmail.com com.announcapp.fivetyfour.ro.livecamera
 suppskadate@gmail.com com.skmobile.com
+
 claraappsltd@gmail.com com.studfinder.appstuddetector
 muhammadrizwandeveloper@gmail.com com.sufiantech.bluetoothdevicefinder
 mobilenumber@gmail.com com.janifer.mobilenumberfinder
@@ -102,6 +109,7 @@ contact@ecomatcher.com id.ecomatcher.treecorder
 meetparty.live@gmail.com com.meetparty.android.lite
 partycrabs.official@gmail.com com.partycrabs
 superappsfree1@gmail.com com.drink.wheelgame
+
 nytrogamess@gmail.com com.WorldnMore.LootParty
 letsplaykidsgames@gmail.com com.happy.box.bella.birthday.party
 textractor.feedback@gmail.com com.ahamouda.textraxtor
@@ -111,6 +119,7 @@ garry.cs.singh@gmail.com com.gdevelopers.pdf_search
 Acestudio902@gmail.com com.wild.hunting.survival.savanna.PantherFamilySim
 smallbyte007@gmail.com com.sb.airline.flight
 shaikhctc73@gmail.com com.kjshopper.shopping
+
 app.shoppershop@gmail.com in.sellonapp.shoppershop
 sam.app@hoffrogge.com com.hoffrogge_consulting.cmtoolkit.mobile.android
 bravedev07@gmail.com com.app.arketshop
@@ -120,6 +129,7 @@ Virendergond1990@gmail.com com.shopping.online.myanmar.shoppingmyanmar.app
 onlineshoppingappinfo@gmail.com com.myanmar.online.shopping
 lapmedics2016@gmail.com com.lapmedicshopapp254.shopapp
 dinmufeez@gmail.com com.kidzoo.milk.crates.ragdoll.walking.challenge
+
 support@eteon.live com.eteonstudio.speedtest
 info@smarkia.com com.smarkia.mobile.app
 dev@intros.at com.intros.energytrading
@@ -129,6 +139,7 @@ sistemas@gme.energy com.gme.people
 bonaventuranovellino@gmail.com com.softair.joule.o
 info@inspirigenceworks.com com.wgms.wgms
 support@cubedpixels.net net.cubedpixels.energeticbatterysaver
+
 amarcokolatos@gmail.com com.amarcokolatos.RenewableEnergyTextbook
 mypowerapp@powertogirls.com com.powertogirlsfdn.my_power
 info@powerfitness.dk com.flexybox.loyaltyapp.powerfitnesssvendborg
