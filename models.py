@@ -32,6 +32,7 @@ class App(DictSerializableMixin):
     id = Column(Integer, primary_key=True)
     appid = Column(String(128))
     email = Column(String(128))
+    # companyname = Column(String(128))
     installs = Column(Integer)
     lastupdate = Column(Date, nullable=True)
     sendemail = Column(Boolean, default=False)

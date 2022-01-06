@@ -53,8 +53,9 @@ def get_list_of_ids(listofsearch):
         driver.quit()
     return allresults
 
-allids = get_list_of_ids(['cars', 'car', 'house', 'finder', 'trees', 'party', 'searcher', 'animal', 'airplane', 'shopper', 'shop', 'walk', 'speed', 'energy', 'power'])
 
+allids = get_list_of_ids(['surver', 'survers', 'bride', 'princess', 'Airplane game', 'farm game', 'saga game', 'ball game', 'pool game', 'Crossword', 'brawl game', 'magic game', 'tile game', 'build game', 'storys', 'shooter game', 'bubble game', 'network tool', 'wifi', 'editor', 'sound', 'car game'])
+# allids = get_list_of_ids(['cars', 'car', 'house', 'finder', 'trees', 'party', 'searcher', 'animal', 'airplane', 'shopper', 'shop', 'walk', 'speed', 'energy', 'power'])
 # allids = get_list_of_ids(['altitude meter', 'romantic dice', 'camera gps', 'tank game', 'dice 3D', 'dating', 'recepie app', 'live wallpaper', 'food games', 'local area', 'story', 'sound recorder', 'spirit level', 'singing app', 'photo effects', 'pictures', 'funny', 'spot', 'match', 'tracker', 'ruler', 'scanner', 'star', 'brain', 'learn', 'table', 'lessons', 'daily', 'commics', 'compass', 'radar', 'rpg', 'trails', 'view'])
 # allids = get_list_of_ids(['daily', 'commics'])
 
