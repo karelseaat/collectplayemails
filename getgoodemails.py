@@ -1,15 +1,10 @@
 #!/usr/bin/env python
 
-import sqlalchemy
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from models import *
 import datetime
-from sqlalchemy import distinct
+from models import App
 
-from config import (
-    make_session
-)
+from config import make_session
+
 
 dbsession = make_session()
 

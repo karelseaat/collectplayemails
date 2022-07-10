@@ -1,16 +1,10 @@
 #!/usr/bin/env python
 
+import datetime
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
-import sqlalchemy
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-from models import *
-import datetime
-
-from config import (
-    make_session
-)
+from models import App
+from config import make_session
 
 options = Options()
 options.add_argument("--headless")
@@ -21,7 +15,9 @@ result = dbsession.query(App).filter(App.email.is_(None)).all()
 
 for ares in result:
     print(f"Starting: {ares.appid} nr {result.index(ares)} of {len(result)}")
-    driver = webdriver.Firefox(executable_path= r"/home/aat/Desktop/geckodriver", options=options)
+    driver = webdriver.Firefox(
+        executable_path= r"/home/aat/Desktop/geckodriver", options=options
+    )
     driver.get(f'https://play.google.com/store/apps/details?id={ares.appid}')
 
     try:
@@ -40,7 +36,12 @@ for ares in result:
             something = None
 
         try:
-            anothersomething = int(tempo[2].find_elements_by_tag_name('span')[-1].get_attribute('innerHTML')[:-1].replace(',', ''))
+            anothersomething = int(
+                tempo[2].
+                find_elements_by_tag_name('span')[-1].
+                get_attribute('innerHTML')[:-1].
+                replace(',', '')
+            )
         except Exception as e:
             print(e, ares.appid)
             anothersomething = None

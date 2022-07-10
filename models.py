@@ -1,9 +1,7 @@
-import datetime
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import relationship
-from sqlalchemy import Table, Column, ForeignKey, String, Integer, Boolean, Date, UniqueConstraint
+from sqlalchemy import Column, String, Integer, Boolean, Date
 from sqlalchemy_utils import get_hybrid_properties
-from sqlalchemy.ext.hybrid import hybrid_property
+
 
 Base = declarative_base(name="Base")
 metadata = Base.metadata
