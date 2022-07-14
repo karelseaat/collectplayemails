@@ -18,6 +18,7 @@ dbsession = make_session()
 SCROLL_PAUSE_TIME = 3
 
 def get_list_of_ids(listofsearch):
+    """get a list of app ides with the search tags we are looking for"""
     allresults = []
 
     for toseach in listofsearch:
