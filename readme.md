@@ -1,33 +1,46 @@
+ # Application Stomail
 
-# 1 Collectplayemails
+A simple email sending application built using Python 2.7+ and SQLite. This project is designed to facilitate the sending of emails from your local machine.
 
-This project collects the emails of developers on the google playstore. (this was befor google chnaged the structure of the playstore website)
-There are also scripts that will filter out developers that are most likly to engage on the tradearate platform that is also avalable as one of my repos.
-After that you have a nice list of emails of people that might wanna use the tradearate platform.
+## Requirements
 
-# 2 Structure
-nothing of structure here just a few scripts that get all of this done.
+- Python 2.7 or higher (Python versions 3.0, 3.1, 3.2, 3.3, and 3.4 are not supported)
+- SQLite3 database
 
+## Installation
 
-# 3.5 Things used
-Nothing special but the packages.
-Perhaps sqlite, sqlalchemy, python duh and selenium
+To install the required dependencies, run the following command:
 
-# 3 How to run it
-This software depends on `pipenv` how one does `pipenv` one can find here: [pipenv](https://docs.python-guide.org/dev/virtualenvs/)
-Get the selenium webdriver like geckodriver for firefox and put this in the root dir
-Run getkeywordsearch.py to fill the database
-and run getgoodemails to get the good emails.
-update appdata is also doing something but i dont know anymore. (perhaps run it after getkeywordsearch)
+```bash
+pip install -r requirements.txt
+```
 
+## Configuration
 
-# 4 Class diagram
+The configuration file `config.py` contains the necessary settings for the application. It includes the connection URI to the SQLite database and the hashes of the installed packages.
 
-No real classes, no class diagram.
+## Usage
 
-# 5 Packages used:
+To create a new session, you can use the following function:
 
-`selenium`
-`sqlalchemy`
-`sqlalchemy-utils`
-`pylint`
+```python
+from config import make_session
+
+with make_session() as session:
+    # Your code here
+    pass
+```
+
+This will return a SQLAlchemy session that can be used to interact with the database.
+
+## Development
+
+For development purposes, you can modify the `config.py` file or create a new `develop` section in it to include additional packages and their respective hashes for testing.
+
+## Acknowledgments
+
+This project utilizes the following libraries:
+
+- [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL toolkit and Object Relational Mapping (ORM) system.
+
+Enjoy using Application Stomail! If you encounter any issues or have suggestions, please open an issue. Contributions are always welcome.
