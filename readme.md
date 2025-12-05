@@ -1,46 +1,34 @@
- # Application Stomail
+ # Project Title: My Application Management System (MAMS)
 
-A simple email sending application built using Python 2.7+ and SQLite. This project is designed to facilitate the sending of emails from your local machine.
+A comprehensive and flexible application management system for efficiently handling diverse applications, their metadata, and user interactions. MAMS is built using Python and SQLAlchemy, ensuring scalability, reliability, and performance.
 
-## Requirements
+## Key Features
 
-- Python 2.7 or higher (Python versions 3.0, 3.1, 3.2, 3.3, and 3.4 are not supported)
-- SQLite3 database
+- **Application Metadata Management:** Store essential information about each installed application, including app ID, email, company name (if available), install count, and last update date.
+- **User Interaction Tracking:** Keep track of user interactions through the `sendemail` attribute which can be toggled to enable or disable email notifications for specific users.
+- **Extensibility and Flexibility:** The system is designed with extensibility in mind, allowing easy addition of new attributes or tables as needed.
+- **Data Persistence:** Data is stored in a SQL database, ensuring data durability and integrity.
 
 ## Installation
 
-To install the required dependencies, run the following command:
+To get started with MAMS, you'll need to have Python 2.7 or later installed on your system. The following steps will guide you through the installation process:
 
-```bash
-pip install -r requirements.txt
-```
+1. Clone the repository: `git clone https://github.com/yourusername/MAMS.git`
+2. Navigate into the project directory: `cd MAMS`
+3. Install the required packages: `pip install -r requirements.txt`
+4. Initialize and migrate the database: `python manage.py db init && python manage.py db migrate`
+5. Run the application: `python manage.py runserver`
 
-## Configuration
+## API Reference
 
-The configuration file `config.py` contains the necessary settings for the application. It includes the connection URI to the SQLite database and the hashes of the installed packages.
+For a comprehensive guide on how to interact with the MAMS application, please refer to the [API documentation](API_DOCS.md).
 
-## Usage
+## Contributing
 
-To create a new session, you can use the following function:
+We welcome contributions from the community! If you have any feature requests or find a bug, please open an issue in our [issue tracker](https://github.com/yourusername/MAMS/issues). If you'd like to contribute code, feel free to fork the repository and submit a pull request.
 
-```python
-from config import make_session
+## License
 
-with make_session() as session:
-    # Your code here
-    pass
-```
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This will return a SQLAlchemy session that can be used to interact with the database.
-
-## Development
-
-For development purposes, you can modify the `config.py` file or create a new `develop` section in it to include additional packages and their respective hashes for testing.
-
-## Acknowledgments
-
-This project utilizes the following libraries:
-
-- [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL toolkit and Object Relational Mapping (ORM) system.
-
-Enjoy using Application Stomail! If you encounter any issues or have suggestions, please open an issue. Contributions are always welcome.
+Enjoy using My Application Management System (MAMS)! If you have any questions or need further assistance, please don't hesitate to reach out.
